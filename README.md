@@ -18,11 +18,11 @@ I recently graduated from the highly selective and renowned Makers Academy's cod
 const tomas = {
   pronouns: 'he/him',
   techologies: {
-    frontend: [ 'HTML', 'CSS', 'Bulma', 'Bootstrap', 'JavaScript', 'React.js' ],
-    backend: [ 'Node.js',, 'Ruby', 'Firebase', 'TypeScript'],
+    frontend: [ 'HTML', 'CSS', 'Bootstrap', 'JavaScript', 'React.js', 'Next.js' ],
+    backend: [ 'Node.js',, 'Ruby', 'TypeScript'],
     fullstack: [ 'Ruby-On-Rails', 'Next,js' ]
-    databases: 'PostreSQL',
-    test: [ 'Rspec', 'Capybara', 'Jest', Cypress ]
+    databases: ['PostreSQL']
+    test: [ 'Rspec', 'Capybara', 'Jest', 'Cypress' ]
    },
  }
 ```
