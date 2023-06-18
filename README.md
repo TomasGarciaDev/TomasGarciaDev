@@ -16,7 +16,7 @@ Makers Academy's graduated (London). Front End Engineer working at Zolar.de
 const tomas = {
   pronouns: 'he/him',
   techologies: {
-    frontend: [ 'HTML', 'CSS', 'Bootstrap', 'JavaScript', 'React.js', 'Next.js' ],
+    frontend: [ 'HTML', 'CSS', 'Bootstrap', 'JavaScript', 'React.js', 'Next.js', 'TypeScript' ],
     backend: [ 'Node.js',, 'Ruby', 'TypeScript'],
     fullstack: [ 'Ruby-On-Rails', 'Next,js' ]
     databases: ['PostreSQL']
