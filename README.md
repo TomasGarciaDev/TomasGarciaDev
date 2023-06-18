@@ -4,9 +4,7 @@
 
 ### Hello, World! I am Tomas 👋
 
-I recently graduated from the highly selective and renowned Makers Academy's coding Bootcamp (London). 
-
-<img src='https://thumbs.dreamstime.com/b/open-business-rubber-stamp-over-white-background-88413899.jpg' width="20%" height="20%">
+Makers Academy's graduated (London). Front End Engineer working at Zolar.de
 
 -----
 
@@ -29,7 +27,7 @@ const tomas = {
 
 -----
 
-- 🔭 I’m currently working on finding a job in tech.
+- 🔭 I’m currently working as FE Engineer at Zolar.de
 - 🌱 I’m currently learning MERN, Harvard CS50.
 - 👯 I’m looking to collaborate on any exciting project.
 - 🤔 I’m looking for help to grow as a developer.
