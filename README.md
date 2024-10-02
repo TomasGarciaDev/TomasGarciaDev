@@ -15,22 +15,25 @@ I am a second-career software developer with over two years of experience as a p
 ```
 const tomas = {
   pronouns: 'he/him',
-  techologies: {
-    frontend: [ 'HTML', 'CSS', 'Bootstrap', 'JavaScript', 'React.js', 'Next.js', 'TypeScript' ],
-    backend: [ 'Node.js',, 'Ruby', 'TypeScript'],
-    fullstack: [ 'Ruby-On-Rails', 'Next,js' ]
-    databases: ['PostreSQL']
-    test: [ 'Rspec', 'Capybara', 'Jest', 'Cypress' ]
-   },
- }
+  technologies: {
+    frontend: ['HTML', 'CSS', 'Bootstrap', 'JavaScript', 'React.js', 'Next.js', 'TypeScript', 'GraphQL', 'WordPress Headless CMS', 'Tailwind CSS'],
+    backend: ['Node.js', 'Ruby'],
+    fullstack: ['Ruby-On-Rails', 'Next.js'],
+    databases: ['PostgreSQL'],
+    testing: ['Rspec', 'Capybara', 'Jest', 'Cypress', 'React Testing Library'],
+    versionControl: ['Git', 'Github', 'Bitbucket'],
+    developmentPractices: ['Agile methodologies (Kanban, Scrum)', 'Continuous Integration/Continuous Deployment (CI/CD)'],
+    tools: ['VWO', 'Heyflow', 'Google Tag Manager']
+  }
+};
+
 ```
 
 -----
 
-- 🔭 I’m currently working as FE Engineer at Zolar.de
-- 🌱 I’m currently learning MERN, Harvard CS50.
-- 👯 I’m looking to collaborate on any exciting project.
-- 🤔 I’m looking for help to grow as a developer.
+- 🔭 I’m currently working as FE Developer at Zolar.de
+- 🌱 I’m currently learning Epic React by Kent C.Dodds and Harvard CS50.
+- 🤔 I’m eager to grow as a developer.
 
 ----
 
