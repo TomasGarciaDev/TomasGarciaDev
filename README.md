@@ -4,7 +4,7 @@
 
 ### Hello, World! I am Tomas 👋
 
-Makers Academy's graduated (London). Front End Engineer working at Zolar.de
+I am a second-career software developer with over two years of experience as a professional Frontend Developer and a background in music, bringing creativity and problem-solving skills to the tech world. A graduate of Makers Academy in London, I specialize in React, Next.js, and enjoy improving systems through clean code and innovative solutions. Currently, I work as a Frontend Engineer at Zolar.de, where I thrive on learning, growth, and making a tangible impact. My journey from musician to developer has taught me how to adapt, collaborate, and think outside the box. Let’s connect if you’re interested in tech, development, or collaboration.
 
 -----
 
