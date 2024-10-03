@@ -15,6 +15,10 @@ I am a second-career software developer with over two years of experience as a p
 ```
 const tomas = {
   pronouns: 'he/him',
+  languages: {
+    native: 'Spanish',
+    professionalProficiency: 'English'
+  },
   technologies: {
     frontend: ['HTML', 'CSS', 'Bootstrap', 'JavaScript', 'React.js', 'Next.js', 'TypeScript', 'GraphQL', 'WordPress Headless CMS', 'Tailwind CSS'],
     backend: ['Node.js', 'Ruby'],
