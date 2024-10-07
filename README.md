@@ -26,7 +26,7 @@ const tomas = {
     databases: ['PostgreSQL'],
     testing: ['Rspec', 'Capybara', 'Jest', 'Cypress', 'React Testing Library'],
     versionControl: ['Git', 'Github', 'Bitbucket'],
-    developmentPractices: ['Agile methodologies (Kanban, Scrum)', 'Continuous Integration/Continuous Deployment (CI/CD)'],
+    developmentPractices: ['Agile methodologies (Kanban, Scrum)', 'Continuous Integration/Continuous Deployment (CI/CD)', 'Docker'],
     tools: ['VWO', 'Heyflow', 'Google Tag Manager']
   }
 };
