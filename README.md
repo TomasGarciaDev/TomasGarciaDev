@@ -4,7 +4,9 @@
 
 ### Hello, World! I am Tomas 👋
 
-I am a Software Developer passionate about Frontend development, specializing in React, Next.js, and Node.js, with experience working on scalable web applications and modern JavaScript frameworks. My professional experience focuses on delivering clean, maintainable code and building intuitive, high-quality digital solutions. Transitioning from a creative career in music to software development has strengthened my ability to adapt, problem-solve, and bring a unique perspective to building exceptional user experiences. Passionate about technology, continuous improvement, and delivering tangible results, I thrive in fast-paced, collaborative environments where I can drive innovation and make a real impact.
+I'm a Frontend Developer with 3+ years of experience working with React, Next.js, and CSS (SCSS, Tailwind, Styled Components). I have hands-on experience using TDD and writing tests with Cypress, Jest, and Testing Library. I’m also familiar with CI/CD pipelines, Docker, AWS deployments, and backend development using Node.js and Express.
+
+I enjoy turning functional requirements into practical solutions, working closely with designers to create user-friendly and visually appealing interfaces, and helping project managers with technical planning. Coming from a creative music career, I bring a fresh perspective, adaptability, and a focus on delivering meaningful, high-quality results.
 
 -----
 
