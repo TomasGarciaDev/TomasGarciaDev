@@ -42,8 +42,7 @@ const tomas = {
 
 -----
 
-- 🔭 I’m currently working as FE Developer at Zolar.de
-- 🌱 I’m currently learning Epic React by Kent C.Dodds and Harvard CS50.
+- 🌱 I’m currently learning from Frontend Masters and Harvard CS50.
 - 🤔 I’m eager to grow as a developer.
 
 ----
