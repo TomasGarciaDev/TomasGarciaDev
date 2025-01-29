@@ -8,10 +8,10 @@ I am a Frontend Developer with 3 years of experience working with React, Next.js
 Styled Components, etc…). I have good experience writing tests with Cypress, Jest, and Testing Library. I am
 also familiar with CI/CD pipelines, Docker, AWS deployments, and backend development using Node.js and
 Express.
-
 I enjoy turning functional requirements into practical solutions, working closely with designers to create
 user-friendly and visually appealing interfaces, and helping project managers with technical planning. Coming
-from a creative musi
+from a creative music career, I bring a fresh perspective, adaptability, and a focus on delivering meaningful,
+high-quality results.
 
 -----
 
