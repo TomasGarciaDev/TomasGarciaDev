@@ -4,19 +4,21 @@
 
 ### Hello, World! I am Tomas 👋
 
-I am a Frontend Developer with 3 years of experience working with React, Next.js, and CSS (SCSS, Tailwind,
-Styled Components, etc…). I have good experience writing tests with Cypress, Jest, and Testing Library. I am
-also familiar with CI/CD pipelines, Docker, AWS deployments, and backend development using Node.js and
-Express.
-I enjoy turning functional requirements into practical solutions, working closely with designers to create
-user-friendly and visually appealing interfaces, and helping project managers with technical planning. Coming
-from a creative music career, I bring a fresh perspective, adaptability, and a focus on delivering meaningful,
-high-quality results.
+Frontend Developer with 3 years of professional experience developing scalable web
+applications using React, Next.js, TypeScript, and JavaScript. Proficiency in various CSS
+methodologies (SCSS, Tailwind, Styled Components, etc.) and testing practices with
+technologies such as Jest, RTL, and Cypress. Proficient in integrating REST APIs and
+GraphQL, complemented by knowledge and practical experience in CI/CD pipelines, Docker,
+and AWS deployments. Experienced working in Agile environments with a strong
+collaborative and team player mindset, translating functional requirements into user-friendly
+interfaces in close partnership with designers and UX/UI teams. With a background in music
+brings a unique perspective and resilience to problem-solving, driving continuous
+improvement, and ensuring high-quality deliverables with attention to detail.
 
 -----
 
 📫 Here you can find me:   
-<a href='https://www.linkedin.com/in/tomas-garcia-64b145102/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin logo'/></a> <a href='mailto:tomasgarciadev@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail logo'/></a>
+<a href='https://www.linkedin.com/in/tomasgarciadev/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin logo'/></a> <a href='mailto:tomasgarciadev@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail logo'/></a>
 
 -----
 ```
@@ -26,15 +28,12 @@ const tomas = {
     native: 'Spanish',
     professionalProficiency: 'English'
   },
-  technologies: {
-    frontend: ['HTML', 'CSS', 'Bootstrap', 'JavaScript', 'React.js', 'Next.js', 'TypeScript', 'GraphQL', 'WordPress Headless CMS', 'Tailwind CSS'],
-    backend: ['Node.js', 'Ruby'],
-    fullstack: ['Ruby-On-Rails', 'Next.js'],
-    databases: ['PostgreSQL'],
-    testing: ['Rspec', 'Capybara', 'Jest', 'Cypress', 'React Testing Library'],
-    versionControl: ['Git', 'Github', 'Bitbucket'],
-    developmentPractices: ['Agile methodologies (Kanban, Scrum)', 'Continuous Integration/Continuous Deployment (CI/CD)', 'Docker'],
-    tools: ['VWO', 'Heyflow', 'Google Tag Manager']
+  technicalSkills: {
+    techStack: ['React', 'Next.js', 'TypeScript', 'JavaScript', 'WordPress Headless CMS', 'HTML5', 'CSS (CSS3, SCSS, Tailwind)', 'Node', 'Express'],
+    testingAndTools: ['Jest', 'Cypress', 'Playwright', 'React Testing Library', 'Vitest', 'VWO', 'Google Tag Manager', 'API handling', 'Docker'],
+    developmentPractices: ['Agile (Kanban, Scrum)', 'CI/CD', 'Version Control: Git (Github, Bitbucket)', 'Documentation', 'Test Driven Development (TDD)'],
+    cloudServices: ['AWS (S3, Cloudfront)', 'Neon.texh'],
+    languages: ['Native Spanish', 'Professional English']
   }
 };
 
